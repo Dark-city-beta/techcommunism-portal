@@ -1,0 +1,4 @@
+# GitHub Pages configuration
+publish_dir: ./
+redirect_from: []
+redirect_to: []
